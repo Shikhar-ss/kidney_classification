@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: kidney-CNNimgclass
+Version: 0.0.0
+Summary: A python package for CNN kidney disease classification
+Home-page: https://github.com/Shikhar-ss/kidney_classification
+Author: Shikhar-ss
+Author-email: shikhar.sharma.ss.24@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Shikhar-ss/kidney_classification/issues
+Platform: UNKNOWN
+
+<!-- FILE DESCRIPTION -->
+<!-- template.py
+    create a python script that creates a default project file structure
+    
+    ".github/workflows/.gitkeep" 
+    .github is the directory for github to store and track git specific templates and configurations files (YAML)
+
+    for CI/CD through github Actions     
+    .gitkeep file is to track the directory it is in-->
+
+<!--
+os.makedirs(filedir, exist_ok=True) , here exists_ok commands to create the folder recursively. So it can help us to create folders inside alredy existing folders (Tree)
+ -->
+
