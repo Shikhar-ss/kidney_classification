@@ -11,3 +11,8 @@
 <!--
 os.makedirs(filedir, exist_ok=True) , here exists_ok commands to create the folder recursively. So it can help us to create folders inside alredy existing folders (Tree)
  -->
+
+ <!-- Implementing logger  -->
+ <!-- Common.py in utils for common functionalities
+ConfigBox module is used to give json like dot notation capability to dictionary objects
+ @ensure_annotations is a decorator that ensures that correct data types are provided to the function upon funciton call.  -->
